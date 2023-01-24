@@ -1,0 +1,8 @@
+### List out the data types, their format specifiers. ### 
+
+Data Types   >>>>>> Format Specifiers 
+
+	int    >>>>>> %d / %x / %i
+	char   >>>>>> %c
+	float  >>>>>> %f
+	double >>>>>> %lf
